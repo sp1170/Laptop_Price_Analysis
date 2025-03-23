@@ -8,4 +8,4 @@
 ###  - Statistical analysis of pricing patterns.
 ###  - Visualizations such as scatter plots and histograms.
 ## Tools Used: 
-### Python, Pandas, Seaborn.
+### Python, Numpy, Pandas, Matplotlib, Seaborn.
